@@ -13,6 +13,12 @@
 Bayesian statistics, Machine-learning, Brain-imaging
 
 ## posting
+* [bayesian](https://github.com/dhdcjswo/postings/tree/master/bayesian)
+* [stats]
+* [ML]
+* [paper review]
+* [ppt]
+
 
 
 ## projects
