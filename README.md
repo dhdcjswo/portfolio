@@ -4,12 +4,16 @@
 
 ## about 
 
+
 ## experience
+* 2017-01 ~ 2017-02 : Prudential Investment Company of Australia(PICA) accoungting 인턴
+* 2017-10 ~ 2019-07 : Kyungpook National University Brain-imaging Lab(BMR) 연구원
 
 ## interests
 Bayesian statistics, Machine-learning, Brain-imaging
 
 ## posting
+
 
 ## projects
 
