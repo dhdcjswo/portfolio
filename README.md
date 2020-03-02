@@ -21,7 +21,10 @@ Bayesian statistics, Machine-learning, Brain-imaging
   1. logistic growth model(SI model).  
   2. basic bayesian structure.  
   3. bayesian change point detection.  
-* **자료** :  
+* **데이터** : Johns Hopkins CSSE(https://github.com/CSSEGISandData/COVID-19) 
+* **자료** : 
+  1. [bayesian_1](https://github.com/dhdcjswo/corona19_analysis/blob/master/notebook/bayesian_1.ipynb)
+  2. [bayesian 2]
 * **상태** : on-going
 
 ---
@@ -32,7 +35,8 @@ Bayesian statistics, Machine-learning, Brain-imaging
 * **내용** : 
   1. 청각기능을 담당하난 대뇌피질의 손상으로 발생한 청력손상 현상(cortical-deafness)  
   2. f-MRI 데이터를 이용하여 대뇌 피질간의 기능적 연결성을 일반인과 비교.  
-* **자료** : 
+* **데이터** : (private) mri영상 이미지. 환자 데이터1 / 일반인 데이터 10
+* **자료** :
 * **상태** : done
 ---
 #### 게임 유저 이탈 분석(NC-bigcontest 2019)
