@@ -66,10 +66,10 @@ Bayesian statistics, Machine-learning, Brain-imaging
 * **목적** : ML 연습
 * **데이터** : 대회 제공데이터.
 * **자료** : 
-  1. 전기 사용량 예측
-  2. 제주도 버스 승차인원 예측
+  1. [전기 사용량 예측](https://github.com/dhdcjswo/dacon/electricity_demand)
+  2. [제주도 버스 승차인원 예측](https://github.com/dhdcjswo/dacon/bus_demand)
   3. 반도체 두께 예측
-  4. 원자력 발전소 상태 예측
+  4. [원자력 발전소 상태 예측](https://github.com/dhdcjswo/dacon/nuclear_plant)
   5. 천체 유형 예측
 * **상태** : on-going
 ####  
