@@ -35,7 +35,7 @@ Bayesian statistics, Machine-learning, Brain-imaging
 * **자료** : 
   1. [bayesian_1](https://github.com/dhdcjswo/corona19_analysis/blob/master/notebook/bayesian_1.ipynb)
   2. [검사횟수와 확진자수](https://github.com/dhdcjswo/corona19_analysis/blob/master/notebook/%EA%B2%80%EC%82%AC%ED%9A%9F%EC%88%98%EC%99%80%20%ED%99%95%EC%A7%84%EC%9E%90.ipynb)
-  3. [
+  3. [bayesian_2]
 * **상태** : on-going
 
 ---
