@@ -2,18 +2,24 @@
 
 # portfolio
 
-## about 
+## about
 
 
 ## experience
+* 2015-08 ~ 2016-02 : University of Vigo, Spain
 * 2017-01 ~ 2017-02 : Prudential Investment Company of Australia(PICA) accoungting 'intern'
 * 2017-10 ~ 2019-07 : Kyungpook National University Brain-imaging Lab(BMR) 'researcher'
 <br>
 
+###
+
 ## interests
-Bayesian statistics, Machine-learning, Brain-imaging
+Bayesian statistics, Machine-learning
+music, travel
 <br>
 
+
+###
 
 ## projects
 
@@ -76,6 +82,8 @@ Bayesian statistics, Machine-learning, Brain-imaging
 * [ML]
 * [paper review](https://github.com/dhdcjswo/postings/tree/master/paper_review)
 * [etc](https://github.com/dhdcjswo/postings/tree/master/etc)
+
+###
 
 ## practice
 * [bayeisan](https://github.com/dhdcjswo/practice/tree/master/bayesian)
