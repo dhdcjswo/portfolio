@@ -14,7 +14,7 @@
 ###
 
 ## interests
-Bayesian statistics, Machine-learning
+Bayesian statistics, Machine-learning<br>
 music, travel
 <br>
 
