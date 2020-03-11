@@ -12,14 +12,6 @@
 ## interests
 Bayesian statistics, Machine-learning, Brain-imaging
 
-## posting
-* [bayesian](https://github.com/dhdcjswo/postings/tree/master/bayesian)
-* [stats]
-* [ML]
-* [paper review]
-* [ppt]
-
-
 
 ## projects
 
@@ -75,3 +67,15 @@ Bayesian statistics, Machine-learning, Brain-imaging
   **public score 기준.
 * **상태** : on-going
 ####  
+
+## posting
+* [bayesian](https://github.com/dhdcjswo/postings/tree/master/bayesian)
+* [stats]
+* [ML]
+* [paper review](https://github.com/dhdcjswo/postings/tree/master/paper_review)
+* [etc](https://github.com/dhdcjswo/postings/tree/master/etc)
+
+## practice
+* [bayeisan](https://github.com/dhdcjswo/practice/tree/master/bayesian)
+
+  
