@@ -8,9 +8,11 @@
 ## experience
 * 2017-01 ~ 2017-02 : Prudential Investment Company of Australia(PICA) accoungting 'intern'
 * 2017-10 ~ 2019-07 : Kyungpook National University Brain-imaging Lab(BMR) 'researcher'
+<br>
 
 ## interests
 Bayesian statistics, Machine-learning, Brain-imaging
+<br>
 
 
 ## projects
@@ -61,9 +63,9 @@ Bayesian statistics, Machine-learning, Brain-imaging
 * **자료** : 
   1. [전기 사용량 예측](https://github.com/dhdcjswo/dacon/tree/master/electricity_demand) - 40th/226
   2. [제주도 버스 승차인원 예측](https://github.com/dhdcjswo/dacon/tree/master/bus_demand) - 9th/465
-  3. [반도체 두께 예측]() - 53th/670
+  3. [반도체 두께 예측] - 53th/670
   4. [원자력 발전소 상태 예측](https://github.com/dhdcjswo/dacon/tree/master/nuclear_plant) - 98th/980
-  5. [천체 유형 예측]() - 13th/688<br>
+  5. [천체 유형 예측] - 13th/688<br>
   **public score 기준.
 * **상태** : on-going
 ####  
