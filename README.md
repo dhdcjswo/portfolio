@@ -31,11 +31,13 @@ music, travel
   1. logistic growth model(SI model).  
   2. basic bayesian structure.  
   3. bayesian change point detection.  
+  4. hierarchical modeling
 * **데이터** : Johns Hopkins CSSE(https://github.com/CSSEGISandData/COVID-19) 
 * **자료** : 
-  1. [bayesian_1](https://github.com/dhdcjswo/corona19_analysis/blob/master/notebook/bayesian_1.ipynb)
+  1. [베이지안 로지스틱 모델](https://github.com/dhdcjswo/corona19_analysis/blob/master/notebook/bayesian_1.ipynb)
   2. [검사횟수와 확진자수](https://github.com/dhdcjswo/corona19_analysis/blob/master/notebook/%EA%B2%80%EC%82%AC%ED%9A%9F%EC%88%98%EC%99%80%20%ED%99%95%EC%A7%84%EC%9E%90.ipynb)
-  3. [bayesian_2]
+  3. [베타분포와 사망률](https://github.com/dhdcjswo/corona19_analysis/blob/master/notebook/bayesian_2.ipynb)
+  4. bayesian4
 * **상태** : on-going
 
 ---
