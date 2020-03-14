@@ -80,7 +80,7 @@ music, travel
 
 ## posting
 * [bayesian](https://github.com/dhdcjswo/postings/tree/master/bayesian)
-* [stats]
+* [stats](https://github.com/dhdcjswo/postings/tree/master/stats)
 * [ML]
 * [paper review](https://github.com/dhdcjswo/postings/tree/master/paper_review)
 * [etc](https://github.com/dhdcjswo/postings/tree/master/etc)
