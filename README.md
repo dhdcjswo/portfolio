@@ -21,6 +21,14 @@ music, travel
 
 ###
 
+## on-going personal works
+* portfolio_optimization
+* probabilistic programming tfp & pymc3
+<br>
+
+###
+
+
 ## projects
 
 #### 베이지안을 이용한 '코로나19' 전파 양상 분석(analysis infection disease 'CORONA 19' using bayesian method) 
