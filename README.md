@@ -22,7 +22,8 @@ music, travel
 
 ## on-going personal works
 * portfolio_optimization
-* probabilistic programming tfp & pymc3
+* probabilistic programming tfp & pymc
+* multivariate auto-regressive
 <br>
 
 ###
