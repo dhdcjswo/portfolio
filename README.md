@@ -97,5 +97,6 @@ music, travel
 
 ## practice
 * [bayeisan](https://github.com/dhdcjswo/practice/tree/master/bayesian)
+* [python](https://github.com/dhdcjswo/practice/tree/master/python)
 
   
