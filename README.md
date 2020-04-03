@@ -56,7 +56,7 @@ music, travel
 * **내용** : 
   1. 베이지안 A/B test 및 thompson sampling
   2. 단계별 전환율 차이
-* **데이터** : kaggle 
+* **데이터** : [Kaggle e-commerce dataset](https://www.kaggle.com/aerodinamicc/ecommerce-website-funnel-analysis)
 * **자료** : [repository](https://github.com/dhdcjswo/funnel_analysis)
 * **상태** : on-going
 
