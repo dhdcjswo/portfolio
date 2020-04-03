@@ -49,6 +49,18 @@ music, travel
 * **상태** : on-going
 
 ---
+#### 베이지안을 이용한 고객 funnel 분석 
+* **구분** : 개인 프로젝트
+* **목적** : 
+* **도구** : python
+* **내용** : 
+  1. 베이지안 A/B test 및 thompson sampling
+  2. 단계별 전환율 차이
+* **데이터** : kaggle 
+* **자료** : [repository](https://github.com/dhdcjswo/funnel_analysis)
+* **상태** : on-going
+
+---
 #### decreased functional connectivity in patient having cortical deafness by both-hemisphere stroke.
 * **구분** : 경북대학교 재활의학과 협업 프로젝트.
 * **목적** : 'cortical-deafness' 환자의 뇌 영역간 연결성을 일반인과 비교하여 차이 규명.
