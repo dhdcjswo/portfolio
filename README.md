@@ -51,7 +51,7 @@ music, travel
 ---
 #### A/B test module
 * **구분** : 개인 프로젝트
-* **목적** : 
+* **목적** : 모듈구현
 * **도구** : python
 * **내용** : basic A/B test module
   1. basic A/B conversion rate
