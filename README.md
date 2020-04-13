@@ -21,9 +21,9 @@ music, travel
 ###
 
 ## on-going personal works
-* portfolio_optimization
+* dynamic pricing using Multi-armed-bandits
 * probabilistic programming tfp & pymc
-* multivariate auto-regressive
+
 <br>
 
 ###
