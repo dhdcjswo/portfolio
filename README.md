@@ -1,7 +1,5 @@
-<img alt="Jinsu" src="https://img.shields.io/badge/Created%20by-Jinsu-gray.svg?style=flat&colorA=navy&colorB=gray" />
-
 # portfolio
-공부하는 내용들을 정리하는 공간입니다.
+공부한 흔적과 생각들, 그리고 간락한 이력을 정리한 공간입니다
 
 
 ## experience
