@@ -28,7 +28,15 @@ music, travel
 
 
 ## projects
-
+#### Multi-Armed-Bandit(MAB) meta analysis
+* **구분** : 개인 프로젝트.
+* **목적** : MAB의 다양한 적용 및 베이지안 학습
+* **도구** : python
+* **내용** : 
+  1. dynamic-pricing 
+* **자료** :[repository](https://github.com/dhdcjswo/MAB_pricing)
+* **상태** : on-going
+---
 #### 베이지안을 이용한 '코로나19' 전파 양상 분석(analysis infection disease 'CORONA 19' using bayesian method) 
 * **구분** : 개인 프로젝트.  
 * **목적** : 베이지안 방법론을 실제 사회현상에 적용  
