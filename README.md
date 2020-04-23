@@ -101,6 +101,7 @@ music, travel
   3. [반도체 두께 예측] - 53th/670
   4. [원자력 발전소 상태 예측](https://github.com/dhdcjswo/dacon/tree/master/nuclear_plant) - 98th/980
   5. [천체 유형 예측] - 13th/688<br>
+  6. [AI프렌즈 온도예측] - 11th/983<br>
   **public score 기준.
 * **상태** : on-going
 ####  
