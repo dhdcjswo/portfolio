@@ -28,12 +28,23 @@ music, travel
 
 
 ## projects
+#### 추천시스템 실험
+* **구분** : 개인 프로젝트
+* **목적** : 추천 알고리즘 학습 및 적용
+* **도구** : python
+* **내용** :
+  1. 
+* **자료** :[repository](https://github.com/dhdcjswo/rmsu)
+* **상태** : on-going
+
+---
 #### Multi-Armed-Bandit(MAB) meta analysis
 * **구분** : 개인 프로젝트.
 * **목적** : MAB의 다양한 적용 및 베이지안 학습
 * **도구** : python
 * **내용** : 
   1. dynamic-pricing 
+  2. recommendation
 * **자료** :[repository](https://github.com/dhdcjswo/MAB_pricing)
 * **상태** : on-going
 ---
